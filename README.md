@@ -9,6 +9,6 @@ For now, links:
 </p>
 
 
-Also, this many people have looked at my profile: ![](https://github-visitors-badge.glitch.me/badge?page_id=seanspeaks.seanspeaks)
+Also, this many people have looked at my profile: ![](https://komarev.com/ghpvc/?username=seanspeaksstyle=flat-square)
 
 ![](https://hit.yhype.me/github/profile?user_id=7811325)
