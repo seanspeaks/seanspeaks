@@ -9,4 +9,6 @@ For now, links:
 </p>
 
 
-Also, this many people have looked at my profile: ![](https://hit.yhype.me/github/profile?user_id=7811325)
+Also, this many people have looked at my profile: 
+
+![](https://hit.yhype.me/github/profile?user_id=7811325)
