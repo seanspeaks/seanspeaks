@@ -3,7 +3,7 @@ Currently cooking up some stuff.
 
 For now, links:
 <p align="left">
-<a href="https://sean-speaks.com/"><img alt="Website" src="https://img.shields.io/badge/Website-sean--speaks.com-red?style=flat-square&logo=google-chrome"></a>
+<a href="https://seanspeaks.me/"><img alt="Website" src="https://img.shields.io/badge/Website-seanspeaks.me-red?style=flat-square&logo=google-chrome"></a>
 <a href="https://lefthook.com/"><img alt="Website" src="https://img.shields.io/badge/Website-lefthook.com-2b7150?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/seanspeaks/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-seanspeaks-blue?style=flat-square&logo=linkedin"></a>
 </p>
